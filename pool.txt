@@ -8,4 +8,6 @@ proxywallet 0x22ae4d2d135bb608c0701ef76d3593f634c87ff2
 proxypool1 etc-us-east1.nanopool.org:19999/DevOwl
 proxypool2 etc-us-west1.nanopool.org:19999/DevOwl
 flags --cl-global-work 8192 --farm-recheck 200
-
+cor 87e529 1405 1257 1290 1191 1257
+mem 87e529 2200 2000 2200 2000 2000
+pwr 87e529 7 7 7 7 7
