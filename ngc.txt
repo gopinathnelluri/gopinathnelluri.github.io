@@ -1,0 +1,10 @@
+globaldriver amdgpu
+globalpowertune 5
+globalminer claymore
+maxgputemp 85
+globalfan 75
+stratumproxy enabled
+proxywallet 0x22ae4d2d135bb608c0701ef76d3593f634c87ff2
+proxypool1 etc-us-east1.nanopool.org:19999/DevOwl
+proxypool2 etc-us-west1.nanopool.org:19999/DevOwl
+flags --cl-global-work 8192 --farm-recheck 200
