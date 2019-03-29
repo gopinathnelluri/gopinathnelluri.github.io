@@ -1,10 +1,7 @@
-globaldriver amdgpu
-globalpowertune 5
-globalminer claymore
 maxgputemp 85
-globalfan 75
-stratumproxy enabled
-proxywallet 0x22ae4d2d135bb608c0701ef76d3593f634c87ff2
-proxypool1 etc-us-east1.nanopool.org:19999/DevOwl
-proxypool2 etc-us-west1.nanopool.org:19999/DevOwl
+stratumproxy miner
+proxywallet 0x13da424b5dbd0e433c4a0c926ecba83263aa38de
+proxypool1 pool-usa.ethosdistro.com:5001
+proxypool2 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
+globalfan 85
